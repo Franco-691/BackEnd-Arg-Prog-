@@ -24,7 +24,8 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.PutMapping;
 @RestController
 @RequestMapping("explab")
-@CrossOrigin(origins = "https://frontend-argprog-6ac99.web.app/" )
+@CrossOrigin(origins ="https://frontend-argprog-6ac99.web.app/")
+
 public class CExperiencia {
     @Autowired
     SExperiencia sExperiencia;
@@ -61,7 +62,7 @@ public class CExperiencia {
     
     return new ResponseEntity(new Mensaje("Experiencia agregada"), HttpStatus.OK);
     }
-    @PutMapping("/update/id")
+    @PutMapping("/update/{id}")
     public ResponseEntity<?> update(@PathVariable("id") int id,@RequestBody dtoExperiencia dtoexp){
      if(!sExperiencia.existsById(id))
          return new ResponseEntity(new Mensaje("El ID no existe"), HttpStatus.BAD_REQUEST);

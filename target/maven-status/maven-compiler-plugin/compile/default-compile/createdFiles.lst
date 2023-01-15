@@ -1,4 +1,5 @@
 com\portafolio\fb\Entity\Persona.class
+com\portafolio\fb\Dto\dtoHys.class
 com\portafolio\fb\Security\Controller\AuthController.class
 com\portafolio\fb\Security\Service\UsuarioService.class
 com\portafolio\fb\Security\Entity\Usuario.class
@@ -8,9 +9,9 @@ com\portafolio\fb\Service\SExperiencia.class
 com\portafolio\fb\Security\Jwt\JwtEntryPoint.class
 com\portafolio\fb\Controler\CExperiencia.class
 com\portafolio\fb\Entity\Educacion.class
-com\portafolio\fb\Interface\IPersonaSrvice.class
 com\portafolio\fb\Entity\Experiencia.class
 com\portafolio\fb\Service\Seducacion.class
+com\portafolio\fb\Service\Shys.class
 com\portafolio\fb\Security\Dto\LoginUsuario.class
 com\portafolio\fb\Dto\dtoExperiencia.class
 com\portafolio\fb\Security\Service\RolService.class
@@ -19,12 +20,15 @@ com\portafolio\fb\Service\ImpPersonaService.class
 com\portafolio\fb\Security\Service\UserDetailsImpl.class
 com\portafolio\fb\Controler\CEducacion.class
 com\portafolio\fb\Security\Dto\NuevoUsuario.class
+com\portafolio\fb\Repository\Rhys.class
 com\portafolio\fb\Security\Dto\JwtDto.class
-com\portafolio\fb\Service\IPersonaService.class
+com\portafolio\fb\Entity\hys.class
 com\portafolio\fb\Security\Repository\iUsuarioRepository.class
+com\portafolio\fb\Dto\dtoPersona.class
 com\portafolio\fb\Repository\IPersonaRepository.class
 com\portafolio\fb\Security\Controller\Mensaje.class
 com\portafolio\fb\Controler\PersonaController.class
+com\portafolio\fb\Controler\CHys.class
 com\portafolio\fb\FbApplication.class
 com\portafolio\fb\Security\Repository\iRolRepository.class
 com\portafolio\fb\Security\MainSecurity.class

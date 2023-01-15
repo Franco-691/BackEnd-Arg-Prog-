@@ -1,10 +1,12 @@
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Entity\Educacion.java
+C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Dto\dtoPersona.java
+C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Entity\hys.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Entity\Usuario.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Dto\dtoEducacion.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Controller\AuthController.java
-C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Service\IPersonaService.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Entity\UsuarioPrincipal.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Entity\Rol.java
+C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Service\Shys.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Entity\Experiencia.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Service\ImpPersonaService.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Repository\IPersonaRepository.java
@@ -14,13 +16,14 @@ C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\port
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Service\Seducacion.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Service\RolService.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Controler\CExperiencia.java
-C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Interface\IPersonaSrvice.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Repository\REducacion.java
+C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Controler\CHys.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Jwt\JwtProvider.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Service\UserDetailsImpl.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Dto\JwtDto.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Controler\PersonaController.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\FbApplication.java
+C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Dto\dtoHys.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Entity\Persona.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Jwt\JwtTokenFilter.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\MainSecurity.java
@@ -28,6 +31,7 @@ C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\port
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Controler\CEducacion.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Repository\iUsuarioRepository.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Dto\dtoExperiencia.java
+C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Repository\Rhys.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Service\UsuarioService.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Security\Jwt\JwtEntryPoint.java
 C:\Users\fbatt\Documents\Proyecto\ProyectoFinalFB\BackEnd\src\main\java\com\portafolio\fb\Service\SExperiencia.java
